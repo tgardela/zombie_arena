@@ -1,0 +1,23 @@
+﻿  ZombieArena.cpp
+c:\dane\p\cpp\s\basic_games\zombiearena\zombiearena\zombiearena.cpp(24): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\dane\p\cpp\s\basic_games\zombiearena\zombiearena\zombiearena.cpp(25): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\dane\p\cpp\s\basic_games\zombiearena\zombiearena\zombiearena.cpp(27): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\dane\p\cpp\s\basic_games\zombiearena\zombiearena\zombiearena.cpp(262): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\dane\p\cpp\s\basic_games\zombiearena\zombiearena\zombiearena.cpp(493): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ZombieArena.vcxproj -> C:\DANE\p\cpp\s\basic_games\ZombieArena\Debug\ZombieArena.exe
